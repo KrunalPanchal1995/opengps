@@ -23,12 +23,6 @@ A cross-section of the sky shows five toy satellites. The receiver's clock is fa
 
 *Target: range circles shrink onto the receiver; relativity drift if uncorrected*
 
-- [A Newton step: the idea that Gauss-Newton repeats (video)](promo/media/newton_step.mp4)
-
-![Geometry sandbox: intersecting shapes](promo/media/intersect.png)
-
-*Geometry sandbox: intersecting shapes*
-
 Try it live:
 
 - [Math Visual Studio: linear systems (Atlas S21)](https://krunalpanchal1995.github.io/studio/#atlas?ch=S21&ex=1)
